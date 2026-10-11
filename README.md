@@ -1,63 +1,107 @@
-# 🛒 BazarDor — বাজার দর
+# 🛒 বাজার দর | BazarDor
 
-### Know the Market Price. Make Smarter Decisions.
+### Know Today's Market Prices. Shop Smarter.
 
-BazarDor is a modern web application designed to make everyday market price information easier to access. It provides a simple and user-friendly platform where users can explore essential products, view their prices, and make informed shopping decisions.
+**BazarDor (বাজার দর)** is a modern, Bengali-first web application designed to help users explore essential products and understand everyday market prices. It provides an organized platform for browsing products, comparing prices across markets, and making informed shopping decisions.
 
-## 📌 Overview
+<p align="center">
+  <a href="https://next-js-with-better-auth-as-7.vercel.app/">
+    <strong>🌐 Visit Live Website</strong>
+  </a>
+</p>
 
-BazarDor aims to simplify access to market price information through a clean interface and a modern web experience. The project combines responsive UI development, database integration, and secure authentication to deliver a convenient platform for users.
+---
+
+## 🌐 Live Demo
+
+**Live Website:** https://next-js-with-better-auth-as-7.vercel.app/
+
+Explore BazarDor to discover essential products, view market price information, and experience a user-friendly Bengali interface.
+
+## 📖 About the Project
+
+BazarDor aims to make market price information more accessible and convenient for everyday consumers in Bangladesh. With a clean interface and Bengali-first experience, users can explore product categories, review price information, and compare available market prices.
+
+The project combines modern frontend technologies, database integration, and authentication to deliver a responsive web application.
 
 ## ✨ Key Features
 
-- **Product Exploration:** Browse essential products through an organized interface.
-- **Market Price Information:** View available product prices in one place.
-- **Price Comparison:** Compare product prices to support informed purchasing decisions.
-- **Secure Authentication:** Sign up and sign in using email and password.
-- **Social Authentication:** Authenticate using Google and GitHub accounts.
-- **Responsive Design:** Enjoy a user-friendly experience across desktop, tablet, and mobile devices.
+### 1. 📊 Market Price Information
+View available prices of essential products in one place to stay informed about everyday market costs.
 
-## 🛠️ Technology Stack
+### 2. 📈 Price Trends
+Explore products with increasing or decreasing prices to better understand market movements.
+
+### 3. 🗂️ Product Categories and Sorting
+Browse products by category and organize listings using price-based sorting options.
+
+### 4. 🔐 Secure Authentication
+Register and sign in using email and password, Google, or GitHub through Better Auth.
+
+### 5. 👤 User Profile Management
+Access profile information and update personal details through the authentication system.
+
+### Additional Highlights
+
+- Bengali-first user experience
+- Responsive layouts for desktop, tablet, and mobile
+- Product details with available market price information
+- User-friendly notifications and loading states
+- Custom not-found experience for invalid routes
+
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |---|---|
-| Next.js | Full-stack React framework |
+| Next.js | Full-stack React framework and routing |
 | React | Component-based user interface |
 | TypeScript | Type-safe development |
 | Tailwind CSS | Responsive styling |
-| Better Auth | Authentication management |
-| MongoDB | Database integration |
-| Google OAuth | Google authentication |
-| GitHub OAuth | GitHub authentication |
+| DaisyUI | UI styling components |
+| Better Auth | Authentication and session management |
+| MongoDB | Database for authentication data |
+| Google OAuth | Google account authentication |
+| GitHub OAuth | GitHub account authentication |
 | Vercel | Deployment and hosting |
 
 ## 🔐 Authentication
 
-BazarDor integrates Better Auth to manage user authentication and supports:
+BazarDor uses **Better Auth** with MongoDB integration to support user authentication.
 
-- Email and password authentication
-- Google sign-in
-- GitHub sign-in
-- Environment-based configuration for sensitive credentials
+Authentication features include:
+
+- Email and password sign-up and sign-in
+- Google OAuth authentication
+- GitHub OAuth authentication
+- User session management
+- Profile information management
 
 ## 🎯 Project Objectives
 
-- Make market price information easier to access.
-- Help users make informed shopping decisions.
-- Build a responsive and accessible web application.
-- Apply modern full-stack development practices.
-- Integrate database services and third-party authentication providers.
+- Make essential market price information easier to access.
+- Help users make informed purchasing decisions.
+- Provide a responsive and accessible Bengali-first experience.
+- Practice modern full-stack web development.
+- Integrate authentication, database services, and third-party OAuth providers.
 
-## 🌐 Live Demo
+## 🚀 Deployment
 
-**Live Website:** [Add your deployed Vercel URL here]
+BazarDor is deployed on **Vercel**.
+
+🔗 **Production URL:** https://next-js-with-better-auth-as-7.vercel.app/
 
 ## 👨‍💻 Author
 
 **Md Bony Amin**  
-Computer Science and Engineering  
+Computer Science and Engineering (CSE)  
 American International University–Bangladesh (AIUB)
 
 ## 📄 License
 
-This project was developed for educational and practical learning purposes. Licensing terms can be added through a `LICENSE` file if the project is distributed as open source.
+This project was developed for educational and practical learning purposes. No specific open-source license is declared unless a `LICENSE` file is added to the repository.
+
+---
+
+<p align="center">
+  Made with 💚 for a smarter shopping experience in Bangladesh.
+</p>
